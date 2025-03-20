@@ -4,7 +4,8 @@
 #
 
 app = "sparkling-pine-9467"
-primary_region = 'ewr'
+#primary_region = 'ewr'
+primary_region = 'iad'
 
 [build]
   dockerfile = "docker/Dockerfile"
